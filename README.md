@@ -40,7 +40,7 @@ cd backend && npm install
 ## Usage
 
 ```sh
-# Running Frondend
+# Running Frontend
 npm run start
 
 # Running Backend
